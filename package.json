@@ -1,0 +1,19 @@
+{
+  "name": "simple_server_nodejs",
+  "version": "1.0.0",
+  "description": "simple server using node project001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "markpj1"
+  },
+  "author": "mark p jaramillo udemy course 12node projects",
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "server"
+  ]
+}
